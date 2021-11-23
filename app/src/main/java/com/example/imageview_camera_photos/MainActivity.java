@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private ActivityResultLauncher<Intent> activityResultLauncher;
     private boolean isUri;
 
+    // UI components
     private ImageView imageView;
     private Button buttonCamera, buttonGallery;
 
