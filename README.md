@@ -9,7 +9,11 @@ This process demands the **Permissions** of the **Camera Access** and reading **
 
 ## Features
 The program shows a placeholder image inside an ImageView. The user can fill this ImageView with a picture from the camera or the gallery. Doing so means that the user
-clicks on one of the two Buttons and takes the picture or chooses it. Depending on the Button the app requests the necessary permission, if not done yet.
+clicks on one of the two Buttons and takes the picture or chooses it. Depending on the Button the app requests the necessary permission, if not done yet. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
